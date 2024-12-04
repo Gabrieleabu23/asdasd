@@ -43,7 +43,7 @@
                         Escludi
                     </div>
                 </a>
-
+                sd
             </div>
         </div>
         <form action="{{ route('locali.destroy') }}" method="POST" id="DestroyForm{{ $singleLocale->id }}"
